@@ -1,6 +1,6 @@
-# Single Song Promotion
+# Undone (The Sweater Song) by Weezer
 
-> Playlists more popular than albums 
+> Single line from the song
 
 ## What is this? 
 * A website to promote a single-song
@@ -13,4 +13,4 @@
 * What's old is new agai. This is the [modern mixtape](https://en.wikipedia.org/wiki/Mixtape) or a compilation of curated songs. 
 
 ## Citations
-* Your citations go here
+* [Genius] (https://genius.com/Weezer-undone-the-sweater-song-lyrics)
